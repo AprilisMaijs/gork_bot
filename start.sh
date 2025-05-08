@@ -3,4 +3,4 @@
 python3 keep_alive.py &
 
 # Start the bot
-python3 main.py
+python3 gork_bot.py
