@@ -127,5 +127,5 @@ async def on_message(message):
         return
 
 
-#keep_alive()
+keep_alive()
 client.run(TOKEN)
